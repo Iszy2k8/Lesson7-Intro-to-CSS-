@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open Activity 1.html",
+            "file": "c:\\Users\\israe\\OneDrive\\Desktop\\Webdev new\\Lesson7(Intro to CSS)\\Activity 1.html"
+        }
+    ]
+}
